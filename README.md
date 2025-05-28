@@ -3,4 +3,4 @@ This is a smoke and fire image matting dataset named SFMatting-800.
 
 Download link (Google Drive): https://drive.google.com/file/d/1tIUg-Sip4zpEpT4bCFLr33WYpF7vLsBa/view?usp=drive_link
 
-[pic3-2.pdf](https://github.com/user-attachments/files/20482304/pic3-2.pdf)
+![Alt Text](https://github.com/user-attachments/assets/0a96128e-b228-40c2-a6e8-fa2ecba24e30)
